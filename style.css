@@ -1,0 +1,13 @@
+
+.full {
+    background: url(bluets.jpg);
+    background: size 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+
+.top-buffer { margin-top: 10px;}
+
+.extra-buffer {margin-top: 400px;}
+
